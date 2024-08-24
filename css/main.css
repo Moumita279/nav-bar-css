@@ -1,0 +1,22 @@
+.nave-container{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(255, 253, 253);
+    box-shadow: 5px 5px 5px rgb(190, 189, 189);
+    padding: 30px;
+}
+.nave-item ul {
+    display: flex;
+    gap: 50px;
+    list-style-type: none;
+
+}
+.nave-logo img{
+    height: 40px;
+}
+ .nave-item ul li a{
+    text-decoration: none;
+    font-size: 25px;
+    color: black;
+    padding: 30px;
+}
